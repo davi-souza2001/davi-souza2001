@@ -4,7 +4,7 @@
 - 🔭 - I am currently looking for an internship opportunity or a chance to put my knowledge into real practice
  
 
-- 📕 - You can look at my resume here: https://davi-souza2001.github.io/CV/
+- 📕 - You can look at my CV here: https://davi-souza2001.github.io/CV/
 
 
 - 💬 - If you want to contact me speak here: davisouza2001dv@gmail.com
