@@ -27,9 +27,11 @@
  
 </div>
 
+<div>
+
 ![Snake animation](https://github.com/davi-souza2001/davi-souza2001/blob/output/github-contribution-grid-snake.svg)
 
- 
+ </div>
  
 <!---
 davi-souza2001/davi-souza2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
