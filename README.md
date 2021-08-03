@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Souza</h1>
-<h3 align="center">I am a Junior Front-End developer with a focus on always learning</h3>
+<h3 align="center">I am a Front-End developer with a focus on always learning</h3>
 
 - 🔭 - I am currently looking for an internship opportunity or a chance to put my knowledge into real practice
  
