@@ -23,7 +23,8 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>	
   <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Typecript" src="https://img.shields.io/static/v1?label=Next&message=React&color=<COLOR>" width="100px"/>
+  <img alt="Typecript" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" width="90px"/>
+  <img alt="Typecript" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="90px"/>
   <br>
 </p>
 
