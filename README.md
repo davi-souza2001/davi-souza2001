@@ -6,11 +6,11 @@
 
 - 📕 - You can look at my CV here: https://davi-souza2001.github.io/CV/
 
-
 - 💬 - If you want to contact me speak here: davisouza2001dv@gmail.com
 
-- 👍 - I'm a big fan of WEB and all the power that javascript has to offer
+- 📕 - I'm learning about Next.js, vue and Angular
 
+- 👍 - I'm a big fan of WEB and all the power that javascript has to offer
 
 
 <hr>
