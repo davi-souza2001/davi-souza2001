@@ -27,7 +27,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="83px"/>
   <img alt="Next" src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=react" width="73px"/>
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron" width="98px"/>
-  <img alt="Electron" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" width="98px"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" width="98px"/>
   <br>
 </p>
 
