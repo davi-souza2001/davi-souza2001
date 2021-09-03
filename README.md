@@ -1,17 +1,16 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Davi Souza</h1>
 <h3 align="center">I am a Front-End developer with a focus on always learning</h3>
 
-- 🔭 - I am currently looking for an internship opportunity or a chance to put my knowledge into real practice
- 
 
 - 📕 - You can look at my CV here: https://davi-souza2001.github.io/CV/
 
-- 💬 - If you want to contact me speak here: davisouza2001dv@gmail.com
+- 💬 - If you want to contact me speak here: davisouza2001dv@gmail.com 
 
-- 📕 - I'm learning about Next.js, vue and Angular
+- Or My <a href="https://www.linkedin.com/in/davi-souza2001/">
+                   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="77px"/>
+         </a>
 
-- 👍 - I'm a big fan of WEB and all the power that javascript has to offer
-
+- 🚀 - A big fan of agile methodologies and solving my problems with technology
 
 <hr>
 
@@ -34,13 +33,18 @@
 
 
 
+
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-souza2001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="davi-souza2001"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-souza2001&layout=compact&langs_count=16&theme=dracula"/>
  
  <hr>
  
- 
 
+<!---
+ <a href="">
+    <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+--->
  
 </div>
 
