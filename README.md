@@ -4,7 +4,7 @@
 
 - 📕 - You can look at my CV here: https://davi-souza2001.github.io/CV/
 
-- 💬 - If you want to contact me speak here: davisouza2001dv@gmail.com  Or My <a href="https://www.linkedin.com/in/davi-souza2001/"> Linkedin </a>
+- 💬 - If you want to contact me speak here: davisouza2001dv@gmail.com  or my <a href="https://www.linkedin.com/in/davi-souza2001/"> Linkedin </a>
 
 - 🚀 - A big fan of agile methodologies and solving my problems with technology
 
