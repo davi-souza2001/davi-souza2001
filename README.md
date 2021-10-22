@@ -19,6 +19,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>	
   <img alt="Typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="83px"/>
+  <img alt="ReactNative" src="https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react" width="130px"/>
   <img alt="Next" src="https://img.shields.io/badge/-Next-black?style=flat-square&logo=react" width="73px"/>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular" width="93px"/>
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron" width="98px"/>
