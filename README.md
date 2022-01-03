@@ -29,6 +29,7 @@
   <br>
 </p>
 -->
+### Front-End
 
 <div>
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
@@ -41,12 +42,28 @@
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<br>
+<hr>
+  
+### Back-End
+  
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" width="98px" height="30px"/>  
-</div>
+<img align="center" alt="Firebase" src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" width="98px" height="30px"/>
 
 <br>
+<hr>
+ 
+### Databases
   
+<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
+<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+
+
+</div>
+
+<hr>
 <div style="display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-souza2001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="davi-souza2001"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-souza2001&layout=compact&langs_count=16&theme=dracula"/>
  
