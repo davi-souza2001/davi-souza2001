@@ -2,11 +2,11 @@
 <h3 align="center">I am a Front-End developer with a focus on always learning</h3>
 
 
-- 📕 - You can look at my CV here: https://davi-souza2001.github.io/CV/
+- 📕 - Always updating myself and more passionate about the javascript ecosystem;
 
 - 💬 - If you want to contact me speak here: davisouza2001dv@gmail.com  or my <a href="https://www.linkedin.com/in/davi-souza2001/"> Linkedin </a>
 
-- 🚀 - A big fan of agile methodologies and solving my problems with technology
+- 🚀 - A big fan of agile methodologies. Just like technology, learning is always continuous.
 
 <hr>
 
