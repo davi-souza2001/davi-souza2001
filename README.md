@@ -39,9 +39,6 @@
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-<img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <br>
 <hr>
   
@@ -63,9 +60,6 @@
 
 </div>
 
-<!-- <hr>
-<div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davi-souza2001&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="davi-souza2001"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-souza2001&layout=compact&langs_count=16&theme=dracula"/> -->
  
  <hr>
 </div>
