@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Davi Souza</h1>
+<h1 align="center">Hi dear 👋, I'm Davi Souza</h1>
 <h3 align="center">I am a Front-End developer with a focus on always learning</h3>
 
 
